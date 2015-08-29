@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class TestPoint {
 	public static void main(String [] args){
